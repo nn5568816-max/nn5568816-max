@@ -62,16 +62,21 @@ Mission: BUILD • LEARN • INNOVATE
 </a>
 
 </div>
-
-## 📊 GITHUB STATISTICS
+## 📊 WOLF OSINT — GITHUB COMMAND CENTER
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=nn5568816-max&show_icons=true&theme=dark&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=660000"/>
+### 🔴 GITHUB OVERVIEW
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn5568816-max&layout=compact&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=660000"/>
+<img src="https://github-stats-extended.vercel.app/api?username=nn5568816-max&show_icons=true&theme=dark&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=660000" width="95%" alt="GitHub Statistics"/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=nn5568816-max&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&border=660000"/>
+### ⚡ MOST USED LANGUAGES
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nn5568816-max&layout=compact&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=660000" width="95%" alt="Top Languages"/>
+
+### 🔥 CONTRIBUTION STREAK
+
+<img src="https://streak-stats.demolab.com?user=nn5568816-max&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&border=660000" width="95%" alt="GitHub Streak"/>
 
 </div>
 
