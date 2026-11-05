@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nn5568816-max&style=for-the-badge&color=8A2BE2&label=NEXUS+VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=nn5568816-max&style=for-the-badge&color=8A2BE2&label=NARESSH+VISITORS" />
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=probot&logoColor=black" />
 <img src="https://img.shields.io/badge/IDENTITY-WOLF_OSINT-8A2BE2?style=for-the-badge" />
