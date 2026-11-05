@@ -86,52 +86,27 @@
 
 <div align="center">
 
-<!-- WOLF CYBER IMAGE -->
-<img
-src="https://www.123rf.com/photo_199698533_resourceful-wolf-hacker-digital-art-illustration-generative-ai.html"
-width="95%"
-alt="Wolf Cyber Forest Banner"
-/>
-
 # 🐺 WOLF OSINT
 
-### ANIME CYBER NEXUS
+### 🌌 ANIME CYBER NEXUS
 
-<img src="https://img.shields.io/badge/WOLF%20OSINT-INTELLIGENCE-6842D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00BCEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-6842D9?style=for-the-badge"/>
 
 <br/><br/>
 
-<!-- PERSONAL WEBSITE -->
 <a href="https://nareshexploits.wuaze.com/">
-<img src="https://img.shields.io/badge/🌐_VISIT_MY_WEBSITE-OPEN%20WEBSITE-087EBC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_VISIT_MY_WEBSITE-00AFCB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
 
 **OFFICIAL WEBSITE**
 
-[https://nareshexploits.wuaze.com/](https://nareshexploits.wuaze.com/)
+https://nareshexploits.wuaze.com/
 
-<br/><br/>
+<br/>
 
-<!-- GITHUB STATISTICS -->
-<img src="https://github-readme-stats.vercel.app/api?username=nn5568816-max&show_icons=true&theme=tokyonight" width="95%" alt="GitHub Statistics"/>
-
-<br/><br/>
-
-<!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn5568816-max&layout=compact&theme=tokyonight" width="95%" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- CONTRIBUTION STREAK -->
-<img src="https://streak-stats.demolab.com/?user=nn5568816-max&theme=tokyonight" width="95%" alt="Contribution Streak"/>
-
-<br/><br/>
-
-<!-- GITHUB TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=nn5568816-max&theme=tokyonight&no-frame=true&row=1&column=4" width="95%" alt="GitHub Trophies"/>
+`INTELLIGENCE • TECHNOLOGY • DEVELOPMENT`
 
 </div>
 
