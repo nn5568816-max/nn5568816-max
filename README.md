@@ -50,7 +50,7 @@
 ║  🐺 CODENAME    : WOLF OSINT                 ║
 ║  🌌 DIVISION    : DIGITAL INTELLIGENCE       ║
 ║  💻 ENVIRONMENT : LINUX / KALI LINUX         ║
-║  ⚡ INTERESTS   : OSINT / DEVELOPMENT         ║
+║  ⚡ INTERESTS   : OSINT / DEVELOPMENT        ║
 ║  🎯 OBJECTIVE   : LEARN • BUILD • INNOVATE   ║
 ║  🟢 STATUS      : SYSTEM ONLINE              ║
 ║                                              ║
