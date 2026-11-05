@@ -88,7 +88,7 @@
 
 <!-- WOLF CYBER IMAGE -->
 <img
-src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200"
+src="https://kommodo.ai/i/q1BZJHKWQnCVFNBvjYpf"
 width="95%"
 alt="Wolf Cyber Forest Banner"
 />
