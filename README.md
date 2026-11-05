@@ -111,6 +111,7 @@
 <img src="https://img.shields.io/badge/STATUS-AVAILABLE-00E5FF?style=for-the-badge" />
 
 <br/>
+
 | SERVICE | DETAILS |
 |:---|:---|
 | 📱 Mobile Information | Authorized number information lookup |
@@ -118,7 +119,9 @@
 | 🔎 Information Search | Publicly available information |
 | ⚡ API Service | API integration support |
 | 🛠️ Developer Tools | Digital tools and utilities |
+
 <br/>
+
 <a href="https://nareshexploits.wuaze.com/">
 <img src="https://img.shields.io/badge/💰_BUY_NOW-₹200-00FF99?style=for-the-badge" />
 </a>
@@ -167,19 +170,19 @@
 
 ```bash
 ┌─────────────────────────────────────────────┐
-│           🐺 WOLF OSINT TERMINAL             │
+│           🐺 WOLF OSINT TERMINAL            │
 ├─────────────────────────────────────────────┤
 │                                             │
-│  🟣  $ whoami       → Current User           │
-│  🔵  $ pwd          → Current Directory      │
-│  🟢  $ ls -la       → List All Files         │
-│  🟡  $ cd           → Change Directory       │
-│  🔴  $ mkdir        → Create Directory       │
-│  🟣  $ touch        → Create File            │
-│  🔵  $ cat          → Read File              │
-│  🟢  $ cp           → Copy Files             │
-│  🟡  $ mv           → Move / Rename Files    │
-│  🔴  $ rm           → Remove Files           │
+│  🟣  $ whoami       → Current User          │
+│  🔵  $ pwd          → Current Directory     │
+│  🟢  $ ls -la       → List All Files        │
+│  🟡  $ cd           → Change Directory      │
+│  🔴  $ mkdir        → Create Directory      │
+│  🟣  $ touch        → Create File           │
+│  🔵  $ cat          → Read File             │
+│  🟢  $ cp           → Copy Files            │
+│  🟡  $ mv           → Move / Rename Files   │
+│  🔴  $ rm           → Remove Files          │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
