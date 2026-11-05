@@ -88,7 +88,7 @@
 
 <!-- WOLF CYBER IMAGE -->
 <img
-src="https://www.dreamstime.com/digital-art-illustration-resourceful-wolf-hacker-available-as-stock-image384601311"
+src="https://www.123rf.com/photo_199698533_resourceful-wolf-hacker-digital-art-illustration-generative-ai.html"
 width="95%"
 alt="Wolf Cyber Forest Banner"
 />
