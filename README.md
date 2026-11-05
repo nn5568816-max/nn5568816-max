@@ -111,7 +111,6 @@
 <img src="https://img.shields.io/badge/STATUS-AVAILABLE-00E5FF?style=for-the-badge" />
 
 <br/>
-
 | SERVICE | DETAILS |
 |:---|:---|
 | 📱 Mobile Information | Authorized number information lookup |
@@ -119,9 +118,7 @@
 | 🔎 Information Search | Publicly available information |
 | ⚡ API Service | API integration support |
 | 🛠️ Developer Tools | Digital tools and utilities |
-
 <br/>
-
 <a href="https://nareshexploits.wuaze.com/">
 <img src="https://img.shields.io/badge/💰_BUY_NOW-₹200-00FF99?style=for-the-badge" />
 </a>
