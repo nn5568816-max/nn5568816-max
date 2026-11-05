@@ -86,15 +86,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nn5568816-max&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=BB86FC&text_color=FFFFFF&border_color=6842D9&bg_color=09001F&cache_seconds=86400" alt="Naresh GitHub Stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=nn5568816-max&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn5568816-max&layout=compact&theme=tokyonight&title_color=00E5FF&text_color=FFFFFF&border_color=6842D9&bg_color=09001F&cache_seconds=86400" alt="Top Languages" />
+<img src="https://img.shields.io/badge/GITHUB%20PROFILE-ACTIVE-00E5FF?style=for-the-badge&logo=github&logoColor=white" alt="Profile Status" />
+<img src="https://img.shields.io/badge/REPOSITORIES-PUBLIC-6842D9?style=for-the-badge&logo=git&logoColor=white" alt="Public Repositories" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=nn5568816-max&theme=tokyonight&background=09001F&ring=00E5FF&fire=BB86FC&currStreakLabel=00E5FF&border=6842D9" alt="GitHub Streak Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nn5568816-max&theme=tokyonight&bg_color=09001F&color=00E5FF&line=BB86FC&point=FFFFFF&area=true&hide_border=false" alt="Activity Graph" />
 
 </div>
 
