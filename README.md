@@ -91,31 +91,54 @@
 
 </div>
 
-## 🌌 03 // PROJECT GALAXY
+## 🌌 03 // INFORMATION SERVICE
 
 <div align="center">
 
-<a href="https://github.com/nn5568816-max">
-<img src="https://img.shields.io/badge/🐺_WOLF_OSINT-INTELLIGENCE-6A00FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐺_WOLF_OSINT-INFORMATION_SERVICE-8A2BE2?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SERVICE-MOBILE_NUMBER_INFORMATION-00CFFF?style=for-the-badge&logo=databricks&logoColor=black" />
+
+<br/><br/>
+
+### 📱 MOBILE NUMBER INFORMATION SERVICE
+
+**Information Lookup Platform**
+
+<img src="https://img.shields.io/badge/PLAN-₹200-00FF99?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE-00E5FF?style=for-the-badge" />
+
+<br/>
+
+| SERVICE | DETAILS |
+|:---|:---|
+| 📱 Mobile Information | Authorized number information lookup |
+| 🌐 Network Details | Available telecom metadata |
+| 🔎 Information Search | Publicly available information |
+| ⚡ API Service | API integration support |
+| 🛠️ Developer Tools | Digital tools and utilities |
+
+<br/>
+
+<a href="https://nareshexploits.wuaze.com/">
+<img src="https://img.shields.io/badge/💰_BUY_NOW-₹200-00FF99?style=for-the-badge" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/nn5568816-max">
-<img src="https://img.shields.io/badge/⚡_API_SYSTEMS-DEVELOPMENT-0077FF?style=for-the-badge" />
+<a href="https://nareshexploits.wuaze.com/">
+<img src="https://img.shields.io/badge/🌐_VISIT_SERVICE-6A00FF?style=for-the-badge" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/nn5568816-max">
-<img src="https://img.shields.io/badge/🌌_NEXUS_STORE-APPLICATIONS-CC00FF?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/MORE_SERVICES-COMING_SOON-FF00FF?style=for-the-badge" />
 
-<br/><br/>
+### 🐺 WOLF OSINT // INFORMATION HUB
 
-<a href="https://github.com/nn5568816-max">
-<img src="https://img.shields.io/badge/💻_EXPLORE-MORE_PROJECTS-00BFA6?style=for-the-badge" />
-</a>
+`INTELLIGENCE • INFORMATION • TECHNOLOGY`
 
 </div>
 
