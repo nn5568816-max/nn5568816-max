@@ -150,29 +150,93 @@
 
 </div>
 
-## 🌐 05 // WOLF OSINT COMMAND CENTER
+## 🐧 05 // LINUX COMMANDS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/COMMAND_CENTER-SYSTEM_ONLINE-00E5FF?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/🐺_WOLF_OSINT-LINUX_TERMINAL-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ENVIRONMENT-KALI_LINUX-00E5FF?style=for-the-badge&logo=kalilinux&logoColor=black" />
 
 <br/><br/>
 
-<a href="https://nareshexploits.wuaze.com/">
-<img src="https://img.shields.io/badge/🌐_ACCESS_OFFICIAL_WEBSITE-6A00FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+### ⚡ LINUX COMMAND CENTER
+
+`TERMINAL ACCESS // COMMAND DATABASE`
+
+</div>
+
+### 🖥️ BASIC TERMINAL COMMANDS
+
+```bash
+┌─────────────────────────────────────────────┐
+│           🐺 WOLF OSINT TERMINAL             │
+├─────────────────────────────────────────────┤
+│                                             │
+│  🟣  $ whoami       → Current User           │
+│  🔵  $ pwd          → Current Directory      │
+│  🟢  $ ls -la       → List All Files         │
+│  🟡  $ cd           → Change Directory       │
+│  🔴  $ mkdir        → Create Directory       │
+│  🟣  $ touch        → Create File            │
+│  🔵  $ cat          → Read File              │
+│  🟢  $ cp           → Copy Files             │
+│  🟡  $ mv           → Move / Rename Files    │
+│  🔴  $ rm           → Remove Files           │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+### 🌐 NETWORK COMMANDS
+
+```bash
+$ ip addr
+$ ping 8.8.8.8
+$ ip route
+$ ss -tuln
+$ nslookup example.com
+$ traceroute example.com
+```
+
+### 🔥 SYSTEM COMMANDS
+
+```bash
+$ uname -a
+$ hostname
+$ free -h
+$ df -h
+$ top
+$ ps aux
+$ uptime
+```
+
+### 🛠️ PACKAGE MANAGEMENT
+
+```bash
+# Update Kali Linux packages
+sudo apt update
+
+# Upgrade installed packages
+sudo apt upgrade
+
+# Install a package
+sudo apt install nmap
+
+# Search for a package
+apt search nmap
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LINUX-POWERED-00FF99?style=for-the-badge&logo=linux&logoColor=black" />
+
+<img src="https://img.shields.io/badge/TERMINAL-ACCESS-00E5FF?style=for-the-badge" />
 
 <br/><br/>
 
-**OFFICIAL WEBSITE**
+**🐺 WOLF OSINT // LINUX COMMAND DATABASE**
 
-### https://nareshexploits.wuaze.com/
-
-<br/>
-
-<a href="https://github.com/nn5568816-max">
-<img src="https://img.shields.io/badge/GITHUB_PROFILE-EXPLORE-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+`LEARN • EXPLORE • BUILD`
 
 </div>
 
