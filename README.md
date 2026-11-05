@@ -86,18 +86,15 @@
 
 <div align="center">
 
-<a href="https://github.com/nn5568816-max">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=nn5568816-max&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=BB86FC&text_color=FFFFFF&border_color=6842D9&bg_color=09001F" alt="Naresh GitHub Stats" />
-</a>
-<a href="https://github.com/nn5568816-max">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn5568816-max&layout=compact&theme=tokyonight&title_color=00E5FF&text_color=FFFFFF&border_color=6842D9&bg_color=09001F" alt="Top Languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=nn5568816-max&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=BB86FC&text_color=FFFFFF&border_color=6842D9&bg_color=09001F&cache_seconds=86400" alt="Naresh GitHub Stats" />
 
 <br /><br />
 
-<a href="https://github.com/nn5568816-max">
-  <img align="center" width="99%" src="https://streak-stats.demolab.com?user=nn5568816-max&theme=tokyonight&background=09001F&ring=00E5FF&fire=BB86FC&currStreakLabel=00E5FF&border=6842D9" alt="GitHub Streak Stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn5568816-max&layout=compact&theme=tokyonight&title_color=00E5FF&text_color=FFFFFF&border_color=6842D9&bg_color=09001F&cache_seconds=86400" alt="Top Languages" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=nn5568816-max&theme=tokyonight&background=09001F&ring=00E5FF&fire=BB86FC&currStreakLabel=00E5FF&border=6842D9" alt="GitHub Streak Stats" />
 
 </div>
 
