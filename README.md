@@ -33,21 +33,41 @@
 
 ## 🖥️ 01 // OPERATOR PROFILE
 
-```bash
-┌──────────────────────────────────────────────┐
-│           WOLF OSINT TERMINAL                 │
-├──────────────────────────────────────────────┤
-│ OPERATOR   : NARESH                          │
-│ CODENAME   : WOLF OSINT                      │
-│ DIVISION   : DIGITAL INTELLIGENCE            │
-│ ENVIRONMENT: LINUX / KALI LINUX              │
-│ INTERESTS  : OSINT / DEVELOPMENT             │
-│ OBJECTIVE  : LEARN • BUILD • INNOVATE        │
-│ STATUS     : SYSTEM ONLINE                   │
-└──────────────────────────────────────────────┘
+<div align="center">
+
+<img src="https://img.shields.io/badge/🐺_WOLF_OSINT-OPERATOR-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
+```yaml
+╔══════════════════════════════════════════════╗
+║           🐺 WOLF OSINT TERMINAL             ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  👤 OPERATOR    : NARESH                     ║
+║  🐺 CODENAME    : WOLF OSINT                 ║
+║  🌌 DIVISION    : DIGITAL INTELLIGENCE       ║
+║  💻 ENVIRONMENT : LINUX / KALI LINUX         ║
+║  ⚡ INTERESTS   : OSINT / DEVELOPMENT         ║
+║  🎯 OBJECTIVE   : LEARN • BUILD • INNOVATE   ║
+║  🟢 STATUS      : SYSTEM ONLINE              ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
-> Exploring technology, building digital tools, and learning cybersecurity through ethical research and authorized security labs.
+<div align="center">
+
+<img src="https://img.shields.io/badge/IDENTITY-WOLF_OSINT-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/FOCUS-CYBER_SECURITY-00E5FF?style=flat-square" />
+<img src="https://img.shields.io/badge/MODE-DEVELOPER-FF00FF?style=flat-square" />
+
+<br/>
+
+**「 THINK LIKE A HACKER • BUILD LIKE A DEVELOPER 」**
+
+</div>
 
 ## ⚡ 02 // TECHNOLOGY ARSENAL
 
