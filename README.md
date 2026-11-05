@@ -82,37 +82,56 @@
 
 </div>
 
-## ✦ 04 — GITHUB ANALYTICS
+## ✦ 04 — WOLF OSINT COMMAND CENTER
 
 <div align="center">
 
-### 🌌 GITHUB STATISTICS
+<!-- WOLF CYBER IMAGE -->
+<img
+src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200"
+width="95%"
+alt="Wolf Cyber Forest Banner"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nn5568816-max&show_icons=true&theme=tokyonight" width="95%" alt="GitHub Stats"/>
+# 🐺 WOLF OSINT
+
+### ANIME CYBER NEXUS
+
+<img src="https://img.shields.io/badge/WOLF%20OSINT-INTELLIGENCE-6842D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00BCEB?style=for-the-badge"/>
 
 <br/><br/>
 
-### 💻 TOP LANGUAGES
+<!-- PERSONAL WEBSITE -->
+<a href="https://nareshexploits.wuaze.com/">
+<img src="https://img.shields.io/badge/🌐_VISIT_MY_WEBSITE-OPEN%20WEBSITE-087EBC?style=for-the-badge"/>
+</a>
 
+<br/>
+
+**OFFICIAL WEBSITE**
+
+[https://nareshexploits.wuaze.com/](https://nareshexploits.wuaze.com/)
+
+<br/><br/>
+
+<!-- GITHUB STATISTICS -->
+<img src="https://github-readme-stats.vercel.app/api?username=nn5568816-max&show_icons=true&theme=tokyonight" width="95%" alt="GitHub Statistics"/>
+
+<br/><br/>
+
+<!-- TOP LANGUAGES -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn5568816-max&layout=compact&theme=tokyonight" width="95%" alt="Top Languages"/>
 
 <br/><br/>
 
-### 🔥 CONTRIBUTION STREAK
-
+<!-- CONTRIBUTION STREAK -->
 <img src="https://streak-stats.demolab.com/?user=nn5568816-max&theme=tokyonight" width="95%" alt="Contribution Streak"/>
 
 <br/><br/>
 
-### 🏆 GITHUB TROPHIES
-
+<!-- GITHUB TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=nn5568816-max&theme=tokyonight&no-frame=true&row=1&column=4" width="95%" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-### ⚡ CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nn5568816-max&theme=tokyo-night" width="100%" alt="Activity Graph"/>
 
 </div>
 
