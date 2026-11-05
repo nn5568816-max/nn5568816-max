@@ -53,14 +53,21 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,html,css,js,nodejs,mysql,linux,bash,git,github,vscode&theme=dark&perline=6" />
+<a href="https://www.python.org/" target="_blank">
+<img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+</a>
 
-<br/><br/>
+<a href="https://www.php.net/" target="_blank">
+<img src="https://img.shields.io/badge/PHP-9D4EDD?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</a>
 
-<img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-9D4EDD?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+</a>
 
 </div>
 
