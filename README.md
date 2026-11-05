@@ -96,13 +96,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nn5568816-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080018&title_color=00E5FF&icon_color=BB00FF&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn5568816-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=080018&title_color=00E5FF&text_color=FFFFFF" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=nn5568816-max&theme=tokyonight&hide_border=true&background=080018&ring=BB00FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=nn5568816-max&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=080018&title_color=00E5FF&icon_color=BB00FF&text_color=FFFFFF" alt="WOLF OSINT GitHub Statistics" />
 
 </div>
 
