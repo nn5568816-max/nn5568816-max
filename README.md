@@ -1,9 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,40:180000,100:990000&text=WOLF%20OSINT&fontSize=65&fontColor=FF2020&fontAlignY=40&desc=CYBER%20WOLF%20INTELLIGENCE%20DIVISION&descSize=16&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09001F,30:24105A,60:075B91,100:00C9D8&text=WOLF%20OSINT&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=ANIME%20CYBER%20NEXUS&descSize=20&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=FF3030&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE...;WELCOME+TO+WOLF+OSINT;CYBER+INTELLIGENCE+%7C+DEVELOPMENT;THINK+LIKE+A+WOLF."/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZED...;WELCOME+TO+WOLF+OSINT;CYBER+INTELLIGENCE+%7C+DEVELOPMENT;ENTERING+THE+ANIME+NEXUS"/>
+
+<img src="https://komarev.com/ghpvc/?username=nn5568816-max&style=for-the-badge&color=6C35DE&label=NEXUS+VISITORS"/>
 
 </div>
 
@@ -11,31 +13,32 @@
 
 <div align="center">
 
-### 🐺 THE CYBER WOLF
+# 🌌 WELCOME TO MY DIGITAL WORLD
 
-**NARESH**  
-`OSINT RESEARCHER` • `DEVELOPER` • `CYBERSECURITY ENTHUSIAST`
+### 🐺 WOLF OSINT // ANIME NEXUS
 
-<img src="https://img.shields.io/badge/IDENTITY-WOLF%20OSINT-990000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-111111?style=for-the-badge&logo=statuspage&logoColor=red"/>
-<img src="https://komarev.com/ghpvc/?username=nn5568816-max&style=for-the-badge&color=990000&label=PROFILE+VIEWS"/>
+`NARESH` • `DEVELOPER` • `OSINT ENTHUSIAST`
+
+<img src="https://img.shields.io/badge/IDENTITY-WOLF%20OSINT-6842D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00AFCB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DIVISION-CYBER%20NEXUS-AD48DD?style=for-the-badge"/>
 
 </div>
 
-## ◈ ABOUT THE OPERATOR
+## ✦ 01 — OPERATOR PROFILE
 
-> Exploring the digital world. Building intelligent tools. Learning cybersecurity through ethical research.
+> Exploring technology, creating digital tools, and learning cybersecurity through ethical research.
 
-| SYSTEM | INFORMATION |
+| PROFILE | DETAILS |
 |:---|:---|
-| Operator | Naresh |
-| Codename | WOLF OSINT |
-| Division | Digital Intelligence |
-| Primary Focus | OSINT & Development |
-| Environment | Linux / Kali Linux |
-| Mission | Learn • Build • Innovate |
+| 🐺 Operator | Naresh |
+| 🌌 Codename | WOLF OSINT |
+| 💻 Division | Digital Intelligence |
+| ⚡ Focus | Development & OSINT |
+| 🐧 Environment | Linux / Kali Linux |
+| 🎯 Mission | Learn • Build • Innovate |
 
-## ◈ TECHNOLOGY ARSENAL
+## ✦ 02 — TECHNOLOGY UNIVERSE
 
 <div align="center">
 
@@ -43,52 +46,59 @@
 
 </div>
 
-## ◈ PROJECT DATABASE
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+</div>
+
+## ✦ 03 — PROJECT GALAXY
 
 <div align="center">
 
 <a href="https://github.com/nn5568816-max">
-<img src="https://img.shields.io/badge/🐺_WOLF_OSINT-INTELLIGENCE-990000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐺_WOLF_OSINT-INTELLIGENCE-6842D9?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/nn5568816-max">
-<img src="https://img.shields.io/badge/⚡_API_SYSTEMS-DEVELOPMENT-990000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_API_SYSTEMS-DEVELOPMENT-087EBC?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/nn5568816-max">
-<img src="https://img.shields.io/badge/◈_NEXUS_STORE-APPLICATIONS-990000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌌_NEXUS_STORE-APPLICATIONS-AD48DD?style=for-the-badge"/>
 </a>
 
 </div>
 
-## ◈ GITHUB PERFORMANCE
+## ✦ 04 — GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=nn5568816-max&show_icons=true&theme=transparent&title_color=ff3030&icon_color=ff3030&text_color=ffffff&border_color=660000"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=nn5568816-max&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=BB86FC&text_color=FFFFFF&border_color=6842D9&bg_color=09001F"/>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn5568816-max&layout=compact&theme=transparent&title_color=ff3030&text_color=ffffff&border_color=660000"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn5568816-max&layout=compact&theme=tokyonight&title_color=00E5FF&text_color=FFFFFF&border_color=6842D9&bg_color=09001F"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=nn5568816-max&theme=dark&background=050505&ring=ff3030&fire=ff3030&currStreakLabel=ff3030&border=660000"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=nn5568816-max&theme=tokyonight&background=09001F&ring=00E5FF&fire=BB86FC&currStreakLabel=00E5FF&border=6842D9"/>
 
 </div>
 
-## ◈ CONNECT WITH THE WOLF
+## ✦ 05 — CONNECT TO NEXUS
 
 <div align="center">
 
 <a href="https://github.com/nn5568816-max">
-<img src="https://img.shields.io/badge/GITHUB-ACCESS%20PROFILE-990000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-6842D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-### `NO NOISE. ONLY INTELLIGENCE.`
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=17&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=THINK+BEYOND+LIMITS;CREATE+YOUR+OWN+UNIVERSE;WELCOME+TO+WOLF+OSINT"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=OBSERVE+THE+DIGITAL+WORLD;THINK+BEYOND+LIMITS;BUILD+YOUR+OWN+LEGACY"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00C9D8,40:075B91,75:24105A,100:09001F&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:990000,50:300000,100:050505&section=footer"/>
+**🐺 WOLF OSINT // ANIME NEXUS**
 
-**WOLF OSINT // CYBER WOLF DIVISION**
-
-`INTELLIGENCE • TECHNOLOGY • INNOVATION`
+`TECHNOLOGY • INTELLIGENCE • INNOVATION`
 
 </div>
