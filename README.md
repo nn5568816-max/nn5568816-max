@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050014,25:26005C,55:6A00FF,80:00BFFF,100:00F5D4&text=WOLF%20OSINT&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=ANIME%20CYBER%20NEXUS&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=600&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+SYSTEM+BOOTING...;%3E+WELCOME+TO+WOLF+OSINT;%3E+CYBER+INTELLIGENCE+ACTIVATED;%3E+ENTERING+THE+ANIME+NEXUS" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=600&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+SYSTEM+BOOTING...;%3E+WELCOME+TO+WOLF+OSINT;%3E+CYBER+INTELLIGENCE+ACTIVATED;%3E+ENTERING+THE+OSINT+NARESH" />
 
 <br/>
 
